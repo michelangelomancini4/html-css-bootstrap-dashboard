@@ -1,19 +1,20 @@
 /* regole di debug macro */
 
 main .container {
-    border: 1px dashed black;
+    /* border: 1px dashed black; */
     /* background-color: lightblue; */
-    min-height: 80vh;
+    /* min-height: 80vh; */
 }
 
 main .row{
-    border: 1px dashed red;
+    /* border: 1px dashed rgb(152, 145, 145);
+    border-radius: 20px; */
 }
 
 main .col{
     /* height: 100px; */
     /* background-color: #f1d2e7; */
-    border: 1px solid #d0a8eb;
+    /* border: 1px solid #d0a8eb; */
 }
 /* regole generali */
 /* header */
@@ -32,7 +33,6 @@ header img {
 }
 i {
     color: rgb(129, 124, 124);
-    margin-right:  8%;
     padding: 5%;
     border: 2px solid grey;
     border-radius: 10px;
