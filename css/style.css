@@ -23,8 +23,8 @@ i {
     display: none;
     
 }
-@media screen and (min-width:810px) {
-    .disappear {
-        display: block;
+@media screen and (max-width:991.98px) {
+    .riquadro-info {
+        margin : 0 auto;
     }
 }
