@@ -1,0 +1,17 @@
+/* regole di debug macro */
+
+main .container {
+    border: 1px dashed black;
+    background-color: lightblue;
+    min-height: 80vh;
+}
+
+main .row{
+    border: 1px dashed red;
+}
+
+main .col{
+    height: 100px;
+    background-color: #f1d2e7;
+    border: 1px solid #d0a8eb;
+}
