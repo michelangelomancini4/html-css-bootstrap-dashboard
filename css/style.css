@@ -2,7 +2,7 @@
 
 main .container {
     border: 1px dashed black;
-    background-color: lightblue;
+    /* background-color: lightblue; */
     min-height: 80vh;
 }
 
@@ -12,6 +12,28 @@ main .row{
 
 main .col{
     /* height: 100px; */
-    background-color: #f1d2e7;
+    /* background-color: #f1d2e7; */
     border: 1px solid #d0a8eb;
+}
+/* regole generali */
+/* header */
+header img {
+    max-width: 55px;
+}
+
+.disappear {
+    display: none;
+    
+}
+@media screen and (min-width:810px) {
+    .disappear {
+        display: block;
+    }
+}
+i {
+    color: rgb(129, 124, 124);
+    margin-right:  8%;
+    padding: 3%;
+    border: 3px solid grey;
+    border-radius: 10px;
 }
