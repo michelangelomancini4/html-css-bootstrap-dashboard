@@ -11,7 +11,7 @@ main .row{
 }
 
 main .col{
-    height: 100px;
+    /* height: 100px; */
     background-color: #f1d2e7;
     border: 1px solid #d0a8eb;
 }
