@@ -1,11 +1,8 @@
-
 /* regole generali */
 /* header */
 header img {
     max-width: 55px;
 }
-
-
 td svg{
    
     border: 2px solid grey;
@@ -16,12 +13,6 @@ td svg{
     margin-left: 5%;
     border: 2px solid gray;
     border-radius: 12px;
-}
-
-/* da aggiungere? */
-.disappear {
-    display: none;
-    
 }
 @media screen and (max-width:991.98px) {
     .riquadro-info {
